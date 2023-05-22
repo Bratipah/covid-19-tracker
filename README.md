@@ -15,7 +15,7 @@ The page will reload if you make edits.\
 You will also see any lint errors in the console.
 
 ## Project Landing Page
-![Live Demo](https://github.com/Bratipah/Photography-Website/blob/bratipah/images/Screenshot%20at%202021-07-31%2005-46-22.png) 
+![Live Demo](https://github.com/Bratipah/covid-19-tracker/blob/main/src/assets/Screenshot%202023-05-18%20at%2011.58.52.png)
 #### Setup/Installation Requirements
 ### `npm test`
 
