@@ -14,6 +14,9 @@ Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
 The page will reload if you make edits.\
 You will also see any lint errors in the console.
 
+## Project Landing Page
+![Live Demo](https://github.com/Bratipah/Photography-Website/blob/bratipah/images/Screenshot%20at%202021-07-31%2005-46-22.png) 
+#### Setup/Installation Requirements
 ### `npm test`
 
 Launches the test runner in the interactive watch mode.\
